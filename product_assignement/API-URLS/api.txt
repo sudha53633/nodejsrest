@@ -1,0 +1,7 @@
+API url requests as follows::
+===================================
+
+1.API for getting Products by category id  -------- http://localhost:7777/product/get_products_by_cid?category_id=4
+2.API for getting all categories and products ---------- http://localhost:7777/product/get_products_and_categories
+3.API for adding new product ---------- http://localhost:7777/product/add_product
+POST method Body  ---- category_id=5&name=search&code=gc&description=search web
